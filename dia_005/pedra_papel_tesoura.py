@@ -78,4 +78,4 @@ elif pontuacao_maquina > pontuacao_jogador:
     print(f'\nA máquina venceu com vantagem de {pontuacao_maquina - pontuacao_jogador} pontos!')  # noqa: E501;
 else:
     print('\nUé? Empatou?')
-    print('Então a vitória é da máquina, pois a casa sempre tem vantagem!')
+    print('Então a vitória é da máquina, pois a casa sempre tem vantagem! ;)')
